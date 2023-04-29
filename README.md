@@ -1,12 +1,12 @@
 ![lolo](https://user-images.githubusercontent.com/69554007/200473119-e36a7d58-37c4-4230-8a35-3de10886eda3.png)
 
-# TrabalhoMobile1B
+# Trabalho de Desenvolvimento Mobile - 1Bimestre
 
 ---
 **ALUNO(A):** Lorhana Roncetti  
 **PROFESSOR(A):** Otávio Lube  
-**DISCIPLINA:** Desenvolvimento Mobile 
-**TURMA:** EO4M
+**DISCIPLINA:** Desenvolvimento Mobile  
+**TURMA:** EO4M  
 **INSTITUIÇÃO:** Universidade de Vila Velha
 
 ---
